@@ -1,0 +1,23 @@
+{
+  "name": "ScaryThingsAPI",
+  "version": "0.0.0",
+  "description": "ScaryThingsAPI\r ==============",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azdlowry/ScaryThingsAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azdlowry/ScaryThingsAPI/issues"
+  },
+  "homepage": "https://github.com/azdlowry/ScaryThingsAPI",
+  "dependencies": {
+    "connect": "^3.2.0",
+    "restify": "^2.8.2"
+  }
+}
